@@ -3,9 +3,14 @@ title: Home
 layout: home
 ---
 
-## Thursday North Mess Lunch
-- @ManOfMess: "poori chole is good"
-- @Karwal: "(and) the dal today is also extremely good."
-- @Akshit: "dal ne to mcd"
-- @Tejpaul: "*badtameezi*"
-- @Mangi: ABSENT
+Live list of shrine members
+- @Lakshya (admin)
+- @Adnan
+- @Ayush IIIT
+- @Harshit Karwal
+- @Mangipuddi
+- @Rewanth
+- @Shamil
+- @Shreyas
+- @Shrikara
+- @Akshit

@@ -5,4 +5,15 @@ theme: just-the-docs
 url: https://shrine-blog.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+    Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+collections:
+    mess:
+        permalink: "/:collection/:path/"
+        output: true
+
+just_the_docs:
+    collections:
+        mess:
+            name: Mess
